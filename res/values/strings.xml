@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Select from the following list:</string>
+    <string name="app_name">WHS Assignment</string>
+<string name="switchView">Switch View</string>
+<string name="satellite">Satellite View</string>
+<string name="locate">Locate Me!</string>
+<string name="whsNameLbl">WhsName</string>
+<string name="feedbackLbl">Feedback: </string>
+<string name="emailLbl">Email: </string>
+<string name="phoneLbl">Phone no:</string>
+<string name="ratingLbl">Rating: </string>
+<string name="submitBtnTxt">Submit</string>
+<string name="cancelBtnTxt">Cancel</string>
+	<string-array name="rating">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+	</string-array>
+<string name="calTxt">Calculate distance</string>
+<string name="feedbackTxt">Feedback</string>
+<string name="loadURL">Visit WHS website</string>
+<string name="deleteSite">Delete site</string>
+<string name="nameLbl">Name: </string>
+
+
+
+<string name="restoreList">Restore list to default</string>
+</resources>
